@@ -74,6 +74,8 @@ li a {
     max-width: 20%;
     height: auto;
     margin-left: 20px;
+    margin-right: 20px;
+    float: left;
 }
 
 h3{
@@ -86,9 +88,7 @@ h3{
 }
 
 p{
-    float: right;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-    margin-left: 250px;
     color: white;
 }
 
