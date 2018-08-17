@@ -63,7 +63,7 @@ li a {
 
 .box1{
     width: 960px;
-    height: 500px;
+    height: 700px;
     background-color: lightgray;
     margin-right: auto;
     margin-left: auto;
@@ -122,4 +122,18 @@ input, label{
     background-color: grey;
     color: white;
     text-align: center;
+}
+
+.pic1{
+    height: 200px;
+    width: 300px;
+    background-color: grey;
+    position: relative;
+    margin: 10px 0 0 10px;
+}
+
+.pics{
+    background-color: red;
+    display: inline-block;
+
 }
